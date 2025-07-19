@@ -50,13 +50,15 @@ ul {
   list-style-type: none;
 }
 
-.left-items{
+.items{
   display: flex;
   gap: 8px;
+  margin: 8px 16px;
 }
 
 .links{
   display: flex;
   gap: 8px;
 }
+
 
